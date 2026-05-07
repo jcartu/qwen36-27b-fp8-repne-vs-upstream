@@ -1,3 +1,10 @@
+[![← qwen-bench hub](https://img.shields.io/badge/%E2%86%90-qwen--bench_hub-blueviolet?style=for-the-badge)](https://github.com/jcartu/qwen-bench)
+
+> Part of the [`qwen-bench`](https://github.com/jcartu/qwen-bench) ongoing benchmark series.
+> See the hub for the current SOTA leaderboard and a chronological index of all studies.
+
+---
+
 # Qwen3.6-27B FP8+MTP=3 — Repne fork vs Upstream vLLM v0.20.1
 
 Head-to-head benchmark of the **same model and same config** on two different vLLM builds, on dual NVIDIA RTX PRO 6000 Blackwell (TP=2).
